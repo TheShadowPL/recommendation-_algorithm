@@ -1,0 +1,28 @@
+{
+    "user_profiles": [
+        {"ID": 1, "identifier": "user1", "article_ID": 2},
+        {"ID": 2, "identifier": "user1", "article_ID": 1},
+        {"ID": 3, "identifier": "user2", "article_ID": 6},
+        {"ID": 4, "identifier": "user2", "article_ID": 22},
+        {"ID": 5, "identifier": "user3", "article_ID": 13},
+        {"ID": 6, "identifier": "user3", "article_ID": 27},
+        {"ID": 7, "identifier": "user4", "article_ID": 5},
+        {"ID": 8, "identifier": "user4", "article_ID": 19},
+        {"ID": 9, "identifier": "user5", "article_ID": 33},
+        {"ID": 10, "identifier": "user5", "article_ID": 42},
+        {"ID": 11, "identifier": "user6", "article_ID": 3},
+        {"ID": 12, "identifier": "user6", "article_ID": 48},
+        {"ID": 13, "identifier": "user7", "article_ID": 9},
+        {"ID": 14, "identifier": "user7", "article_ID": 36},
+        {"ID": 15, "identifier": "user8", "article_ID": 11},
+        {"ID": 16, "identifier": "user8", "article_ID": 25},
+        {"ID": 17, "identifier": "user9", "article_ID": 7},
+        {"ID": 18, "identifier": "user9", "article_ID": 54},
+        {"ID": 19, "identifier": "user10", "article_ID": 17},
+        {"ID": 20, "identifier": "user10", "article_ID": 29},
+        {"ID": 21, "identifier": "user1", "article_ID": 3},
+        {"ID": 22, "identifier": "user1", "article_ID": 4},
+        {"ID": 23, "identifier": "user1", "article_ID": 5},
+        {"ID": 24, "identifier": "user1", "article_ID": 6}
+    ]
+}

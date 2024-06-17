@@ -1,0 +1,2 @@
+
+from .recommendation import ocena_podobienstwa_artykułu, ocena_koncowa_artykułu
